@@ -1,2 +1,2 @@
 # PBRNet
-The code is for PBRnet for action detection 
+The code is for PBRnet(AAAI2020).

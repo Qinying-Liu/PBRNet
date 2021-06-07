@@ -8,10 +8,12 @@ pytorch 1.6
 opencv-python 3.4.1
 
 ## Data preparation
-You need to download the [THUMOS14](http://crcv.ucf.edu/THUMOS14/) datasets.
+We first download the [THUMOS14](http://crcv.ucf.edu/THUMOS14/) datasets, then sample frames from each video by 10 fps and resize each frame to the spatial size of 320x180. You can change these configurations based on your GPU resources. For optial flow extraction, you can refer to [TV-L1](https://github.com/deepmind/kinetics-i3d/pull/5). 
 
 ## Runing
-python main.py
+```
+CUDA_VISIBLE_DEVICES=$GPU_ID python main.py
+```
 
 ## Reference
 ```

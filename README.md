@@ -2,7 +2,9 @@ This repository is the introduction of "PBRNet:Progressive Boundary Refinement N
 
 # Prerequisites
 python 3.6
+
 pytorch 1.6
+
 opencv-python 3.4.1
 
 # Data preparation

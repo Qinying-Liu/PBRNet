@@ -8,7 +8,7 @@ pytorch 1.6
 opencv-python 3.4.1
 
 ## Data preparation
-We first download the [THUMOS14](http://crcv.ucf.edu/THUMOS14/) datasets, then sample frames from each video by 10 fps and resize each frame to the spatial size of 320x180. You can change these configurations based on your GPU resources. For optial flow extraction, we refer to [TV-L1](https://github.com/deepmind/kinetics-i3d/pull/5) which only requires CPU. 
+We first download the [THUMOS14](http://crcv.ucf.edu/THUMOS14/) datasets, then sample frames from each video by 10 fps and resize each frame to the spatial size of 320x180. You can change these configurations based on your GPU resources. For optial flow extraction, we refer to [TV-L1](https://github.com/deepmind/kinetics-i3d/pull/5/files/f1fa01a332179e82cd655e7cd2f2f0c1c04f0c74) which only requires CPU. 
 
 ## Runing
 ```

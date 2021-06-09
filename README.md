@@ -1,5 +1,8 @@
 This repository is the introduction of "PBRNet:Progressive Boundary Refinement Network for Temporal Action Detection"(AAAI2020) from USTC VIM Lab. They are designed for accurate and efficient temporal action detection. Initially, we implemented the framework by tensorflow and now we re-implement it by pytorch.
 
+## Framework
+![](./figure/PBRNET.PNG)
+
 ## Prerequisites
 python 3.6  <br>
 pytorch 1.6  <br>

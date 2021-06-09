@@ -14,7 +14,7 @@ We first download the [THUMOS14](http://crcv.ucf.edu/THUMOS14/) datasets, then e
 ## Pre-trained model
 We refer to [kinetics_i3d_pytorch](https://github.com/hassony2/kinetics_i3d_pytorch) to get the pre-trained i3d model. 
 
-## Training
+## Run
 ```
 CUDA_VISIBLE_DEVICES=$GPU_IDs python main.py
 ```

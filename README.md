@@ -1,4 +1,4 @@
-This repository is the introduction of "PBRNet:Progressive Boundary Refinement Network for Temporal Action Detection"(AAAI2020). They are designed for accurate and efficient temporal action detection. Initially, we implemented the framework by tensorflow and now we re-implement it by pytorch.
+This repository is the introduction of "PBRNet:Progressive Boundary Refinement Network for Temporal Action Detection"(AAAI2020). They are designed for accurate and efficient temporal action detection. Initially, the framework is implemented by tensorflow and now we re-implement it by pytorch.
 
 ## Framework
 ![](./figure/PBRNET.PNG)
